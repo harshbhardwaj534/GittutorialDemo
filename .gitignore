@@ -1,0 +1,5 @@
+error.log
+*.log
+\static\dir
+\dir
+First.xlsx
